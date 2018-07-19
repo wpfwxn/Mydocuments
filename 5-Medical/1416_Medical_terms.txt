@@ -1,0 +1,108 @@
+/biopsy
+The removal of cells or tissues for examination by a pathologist. The pathologist may study the tissue under a microscope or perform other tests on the cells or tissue. There are many different types of biopsy procedures. The most common types include: (1) incisional biopsy, in which only a sample of tissue is removed; (2) excisional biopsy, in which an entire lump or suspicious area is removed; and (3) needle biopsy, in which a sample of tissue or fluid is removed with a needle. When a wide needle is used, the procedure is called a core biopsy. When a thin needle is used, the procedure is called a fine-needle aspiration biopsy.
+/biopsy specimen
+Tissue removed from the body and examined under a microscope to determine whether disease is present.
+/adjuvant therapy
+Additional cancer treatment given after the primary treatment to lower the risk that the cancer will come back. Adjuvant therapy may include chemotherapy, radiation therapy, hormone therapy, targeted therapy, or biological therapy.
+/lobectomy
+Surgery to remove a whole lobe (section) of an organ (such as the lungs, liver, brain, or thyroid gland).
+/pneumonectomy
+Surgery to remove all of one lung. In a partial pneumonectomy, one or more lobes of a lung are removed.
+/needle biopsy
+The removal of tissue or fluid with a needle for examination under a microscope. When a wide needle is used, the procedure is called a core biopsy. When a thin needle is used, the procedure is called a fine-needle aspiration biopsy.
+/pembrolizumab
+A drug used to treat certain types of cervical cancer, stomach cancer, gastroesophageal junction cancer, urothelial cancer, Hodgkin lymphoma, primary mediastinal large B-cell lymphoma, non-small cell lung cancer, cancer of the head and neck, and melanoma. It is also used to treat some types of solid tumors, including colorectal cancer, that have certain mutations in genes involved in DNA repair. It is also being studied in the treatment of other types of cancer. Pembrolizumab binds to a protein called PD-1, which is found on T cells. Pembrolizumab may block PD-1 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called Keytruda.
+/histology
+The study of tissues and cells under a microscope.
+/computed tomography scan (CT Scan)
+A procedure that uses a computer linked to an x-ray machine to make a series of detailed pictures of areas inside the body. The pictures are taken from different angles and are used to create 3-dimensional (3-D) views of tissues and organs. A dye may be injected into a vein or swallowed to help the tissues and organs show up more clearly. A computed tomography scan may be used to help diagnose disease, plan treatment, or find out how well treatment is working. Also called CAT scan, computerized axial tomography scan, computerized tomography, and CT scan.
+/Magnetic resonance imaging (MRI) scan
+A procedure in which radio waves and a powerful magnet linked to a computer are used to create detailed pictures of areas inside the body. These pictures can show the difference between normal and diseased tissue. Magnetic resonance imaging makes better images of organs and soft tissue than other scanning techniques, such as computed tomography (CT) or x-ray. Magnetic resonance imaging is especially useful for imaging the brain, the spine, the soft tissue of joints, and the inside of bones. Also called MRI, NMRI, and nuclear magnetic resonance imaging.
+/Positron emission tomography (PET) scan
+A procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is taken up. Because cancer cells often take up more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called PET scan.
+/carcinoma in situ
+A group of abnormal cells that remain in the place where they first formed. They have not spread. These abnormal cells may become cancer and spread into nearby normal tissue. Also called stage 0 disease.
+/Disease-free survival
+In cancer, the length of time after primary treatment for a cancer ends that the patient survives without any signs or symptoms of that cancer. In a clinical trial, measuring the DFS is one way to see how well a new treatment works. Also called disease-free survival, relapse-free survival, and RFS.
+/overall survival
+The length of time from either the date of diagnosis or the start of treatment for a disease, such as cancer, that patients diagnosed with the disease are still alive. In a clinical trial, measuring the overall survival is one way to see how well a new treatment works. Also called OS.
+/overall survival rate
+The percentage of people in a study or treatment group who are still alive for a certain period of time after they were diagnosed with or started treatment for a disease, such as cancer. The overall survival rate is often stated as a five-year survival rate, which is the percentage of people in a study or treatment group who are alive five years after their diagnosis or the start of treatment. Also called survival rate.
+/Intention-to-treat analysis
+is a comparison of the treatment groups that includes all patients as originally allocated after randomization. This is the recommended method in superiority trials to avoid any bias. For missing observations, “last value carried forward” is the recommended method.
+/Per-protocol analysis
+is a comparison of treatment groups that includes only those patients who completed the treatment originally allocated. If done alone, this analysis leads to bias.
+/adenocarcinoma
+Cancer that begins in glandular (secretory) cells. Glandular cells are found in tissue that lines certain internal organs and makes and releases substances in the body, such as mucus, digestive juices, or other fluids. Most cancers of the breast, pancreas, lung, prostate, and colon are adenocarcinomas.
+/immunohistochemistry
+A lab test that uses antibodies to test for certain antigens (markers) in a sample of tissue. The antibodies are usually linked to an enzyme or a fluorescent dye. When the antibodies bind to the antigen in the tissue sample, the enzyme or dye is activated, and the antigen can then be seen under a microscope. Immunohistochemistry is used to help diagnose diseases, such as cancer. It may also be used to help tell the difference between different types of cancer.
+/lymphadenectomy
+A surgical procedure in which the lymph nodes are removed and a sample of tissue is checked under a microscope for signs of cancer. For a regional lymphadenectomy, some of the lymph nodes in the tumor area are removed; for a radical lymphadenectomy, most or all of the lymph nodes in the tumor area are removed. Also called lymph node dissection.
+/thoracotomy
+An operation to open the chest.
+/vinorelbine
+An anticancer drug that belongs to the family of plant drugs called vinca alkaloids.
+/cisplatin 
+A drug used to treat certain types of bladder, ovarian, and testicular cancer. It is used in patients whose cancer cannot be treated with or has not gotten better with other anticancer treatment. It is also being studied in the treatment of other types of cancer. Cisplatin contains the metal platinum. It kills cancer cells by damaging their DNA and stopping them from dividing. Cisplatin is a type of DNA crosslinking agent. The brand name Platinol has been taken off the market and is no longer available.
+/regimen
+A treatment plan that specifies the dosage, the schedule, and the duration of treatment.
+/Epidermal Growth Factor Receptor
+The protein found on the surface of some cells and to which epidermal growth factor binds, causing the cells to divide. It is found at abnormally high levels on the surface of many types of cancer cells, so these cells may divide excessively in the presence of epidermal growth factor. Also called EGFR, ErbB1, and HER1.
+/antibody
+A protein made by plasma cells (a type of white blood cell) in response to an antigen (a substance that causes the body to make a specific immune response). Each antibody can bind to only one specific antigen. The purpose of this binding is to help destroy the antigen. Some antibodies destroy antigens directly. Others make it easier for white blood cells to destroy the antigen. An antibody is a type of immunoglobulin.
+/antigen
+Any substance that causes the body to make an immune response against that substance. Antigens include toxins, chemicals, bacteria, viruses, or other substances that come from outside the body. Body tissues and cells, including cancer cells, also have antigens on them that can cause an immune response. These antigens can also be used as markers in laboratory tests to identify those tissues or cells.
+/cytokine 
+A type of protein that is made by certain immune and non-immune cells and has an effect on the immune system. Some cytokines stimulate the immune system and others slow it down. They can also be made in the laboratory and used to help the body fight cancer, infections, and other diseases. Examples of cytokines are interleukins, interferons, and colony-stimulating factors (filgrastim, sargramostim).
+/eligibility criteria
+In clinical trials, requirements that must be met for a person to be included in a trial. These requirements help make sure that participants in a trial are like each other in terms of specific factors such as age, type and stage of cancer, general health, and previous treatment. When all participants meet the same eligibility criteria, it is more likely that results of the study are caused by the intervention being tested and not by other factors or by chance.
+/translational research
+A term used to describe the process by which the results of research done in the laboratory are used to develop new ways to diagnose and treat disease.
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

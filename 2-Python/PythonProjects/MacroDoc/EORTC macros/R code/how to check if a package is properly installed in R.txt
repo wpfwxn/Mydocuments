@@ -1,0 +1,14 @@
+library (help=cmprsk)
+
+
+1)	Investigate the library path of your computer:
+> .libPaths()
+[1] "H:/My Documents/R/win-library/2.15"  "C:/Program Files/R/R-2.15.0/library"
+2)	Remove the package crrstep and cmprsk by the following command:
+remove.packages('cmprsk',lib="H:/My Documents/R/win-library/2.15" ) remove.packages('crrstep',lib="H:/My Documents/R/win-library/2.15" )
+3)	Download the old library for crrstep and cmprsk from 
+http://cran.r-project.org/bin/windows/contrib/2.14/
+and put them in your c:\temp
+4)	Install these 2 libraries from c:\temp using ‘install packages from local zip file’ in R pull down menu.
+5)	You now ready to use the crrstep (the old package) in R.2.15
+

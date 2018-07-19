@@ -1,0 +1,12 @@
+# Install Atom packages: after having installed atom, open a cmd and type the
+# following commands
+apm install platformio-ide-terminal
+apm install Hyperclick
+apm intall autocomplete-python
+apm install autocomplete-python-jedi
+apm install atom-python-virtualenv
+apm install language-sas
+apm install html-to-css
+apm install emmet
+apm install atom-bootstrap3
+apm install language-javascript

@@ -1,0 +1,25 @@
+# Install virtualenv and virtualenvwrapper
+pip install virtualenv
+pip install virtualenvwrapper
+
+# When git bash is installed, it is better to use it to interact with Windows
+# because, linux cmd are available.
+
+# To make the mkvirtualenv works, follow the following steps:
+# 0- Open git bash
+# 1- vim ~/.bashrc ===> Create a ~/.bashrc file (under your user home folder)
+# 2- Add line export WORKON_HOME=$HOME/.virtualenvs (you must create this folder if it doesn't exist)
+# 3- Add line source "C:\Program Files (x86)\Python36-32\Scripts\virtualenvwrapper.sh"
+#    (change path for your virtualenvwrapper.sh)
+# 3-
+
+# If you don't want to create virtual env in HOME directory, use the following command when
+# creating a new virtual env
+# WORKON_HOME=/where/you/want mkvirtualenv virtualenv_name
+
+$WORKON_HOME=C:/Users/hazobou/Software/Python3.7/Venvs mkvirtualenv SASPy
+
+#--------------------------------------------------------------#
+# Install virtualenvwrapper-win: virtualenvwrapper for Windows #
+#--------------------------------------------------------------#
+pip install virtualenvwrapper-win

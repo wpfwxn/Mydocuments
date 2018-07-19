@@ -1,0 +1,59 @@
+ Volume in drive K is 94
+ Volume Serial Number is 0000-0017
+
+ Directory of K:\SAS\EORTC macros
+
+
+17/06/2009  13:40            75,795 forestB2.sas
+05/03/2007  10:56             8,653 ARIS_READ.sas
+13/10/2005  10:49            20,473 bootstrapcox.sas
+05/12/2007  11:19            15,124 BRYADAY.SAS
+27/05/2009  13:58            17,254 CIPlot.sas
+20/03/2007  13:52             2,085 clean_table.sas
+20/01/2005  17:50             2,278 corrtable.sas
+20/01/2005  17:56             7,593 cutpoint.sas
+08/12/2006  10:53             4,842 drop.sas
+29/05/2002  12:33             1,437 dummies.sas
+13/03/2006  11:38            17,993 dynamic_balancing_simulation.sas
+20/02/2009  13:57            24,176 summary2.sas
+16/09/1996  14:56             1,323 fplabels.sas
+09/10/2007  10:00            14,453 GAVG.SAS
+09/10/2007  10:01            10,272 GCOUNT.SAS
+27/03/2003  13:16             1,759 GetAge.sas
+27/03/2003  13:03             1,391 GetBSA.sas
+09/10/2007  10:01            13,026 GFIRST.SAS
+09/10/2007  10:01            12,916 GLAST.SAS
+09/10/2007  10:01            16,031 GMAX.SAS
+09/10/2007  10:01            16,044 GMIN.SAS
+09/10/2007  10:02            12,367 GSEQ.SAS
+09/10/2007  10:02            14,378 GSUM.SAS
+22/12/2006  10:24            55,845 Inference.sas
+25/07/2006  08:10            15,549 Kmplot2.sas
+05/07/2002  15:43             5,100 logit_miss.sas
+06/01/2005  17:41             7,492 LSM.sas
+17/08/2006  15:35             2,023 LSM_QL.sas
+29/09/2003  08:37            11,610 MedianNP.sas
+29/09/2003  08:37            14,575 medianR.sas
+24/01/1996  12:20             1,110 NUMERIC.SAS
+25/07/2006  15:14            10,718 pctY2.sas
+22/07/2002  13:08             2,036 Profiles_table.sas
+27/09/2006  10:45             1,763 pval.sas
+12/02/2008  09:37             1,527 pvalrnd.sas
+23/03/2001  17:04             9,245 QLplot_BW.sas
+23/03/2001  17:04             8,723 QLplot_C.Sas
+05/07/2002  12:44             3,198 QL_model.sas
+04/12/2008  14:42             1,514 cutoff.sas
+04/08/2006  09:23             2,261 recode.sas
+10/08/2006  10:38             2,616 recodeS.sas
+04/07/2005  07:28             5,265 sargent_goldberg.sas
+12/12/2001  11:00                79 sort.sas
+24/06/2002  09:47            18,902 Score.sas
+29/03/2001  13:21             1,820 SearchString.sas
+19/02/2009  11:54            12,785 allfixed2.SAS
+05/10/2007  10:37            65,586 Tables2.sas
+26/03/2009  16:36            18,436 testF2.SAS
+17/06/2009  10:01            25,161 summaryB3.sas
+12/02/2009  13:38            29,774 QoL_comp_V.sas
+12/06/2009  14:35            70,973 forest2.sas
+21/01/2009  13:29            23,130 QoL_comp_F.sas
+06/10/2006  16:11            42,423 HazardPlot.SAS

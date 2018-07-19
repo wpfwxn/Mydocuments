@@ -1,0 +1,123 @@
+NSCLC: Non Small Cell Lung Cancer
+HRQoL: Health Related Quality of Life
+SqCC: squamous cell carcinoma 
+LCC: large-cell carcinoma
+TTF1: Thyroid transcription Factor 1
+PS: performance status 
+VATS: Video-assisted thoracoscopic surgery
+LACE: Lung Adjuvant Cisplatin Evaluation
+CALGB: Cancer and Leukemia Group B
+EGFR: Epidermal Growth Factor Receptor
+PORT: Postoperative radiotherapy
+mAb: monoclonal antibody
+IL-2: to interleukin-2 
+TNFα: tumor necrosis factor alpha
+IFNγ: interferon gamma
+PK: pharmacokinetic
+PD-L1: Programmed death-ligand 1
+ADA: Anti-drug antibiodies
+NED: No evidence of disease
+ANC: Absolute neutrophil count
+TPS: Tumor proportion score
+
+
+AE	Adverse Event 
+ALT	Alanine Aminotransferase
+ALP	alkaline phosphatase
+ANC	Absolute neutrophil count
+AR	Adverse reaction
+ASCO	American Society of Clinical Oncology
+AST	Aspartate Aminotransferase 
+AUC	area-under-the-curve 
+BUN	Blood urea nitrogen
+Ca	Calcium
+CI 	Confidence interval
+CTCAE	Common Terminology Criteria for Adverse Events
+CRO	Contract Research Organization
+CRF	Case Report Form
+DILI	Drug Induced Liver Injury
+DIC	Disseminated Intravascular Coagulation
+DFS	Disease Free Survival 
+DKA	diabetic ketoacidosis
+DNA	Deoxyribonucleic acid
+DMC Data Monitoring Committee 	
+DSUR	Development Safety Update Report 
+ECI	Event of Clinical Interest
+ECI	Epidural Corticosteroid Injection
+ECOG-PS	Eastern Cooperative Oncology Group Performance Status
+eCRF	electronic Case Report Form
+EGFR Epidermal Growth Factor Receptor
+EOC 	Executive Oversight Committee
+EORTC	European Organization for Research and Treatment of Cancer
+ETOP	European Thoracic Oncology Platform
+ESMO	European Society for Medical Oncology 
+EVCTM 	EudraVigilance Clinical Trial Module
+FDAAA	Food and Drug Administration Amendments Act 
+FDAMA	Food and Drug Administration Modernization Act 
+FFPE	FFPE: Formalin Fixed Paraffin Embedded
+FSH	Follicle-stimulating Hormone
+FWER	Family wise error rate
+GMP	Good Manufacturing Practice
+HBM	Human biological material
+HCO3	Bicarbonate
+HIV	Human Immunodeficiency Virus 
+HLA 	Human Lymphocyte Antigen
+HR	Hazard Ratio
+HRQOL	Health-Related Quality of Life
+HUS	Haemolytic Uraemic Syndrome
+IA 	Interim Analysis 
+IASLC	International Association for the Study of Lung Cancer
+ICH/GCP	The International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use / Good Clinical Practice
+IDMC	Independent Data Monitoring Committee
+IFN	interferon
+IHC	Immunohistochemistry
+IL-2	interleukin-2
+ILD	interstitial lung disease
+irAE	Immune-related Adverse Event
+IVRS	Interactive Voice Response System
+ITIM 	immunoreceptor tyrosine-based inhibition motif
+ITP	Idiopathic (or immune) Thrombocytopenia Purpura
+ITSM 	immunoreceptor tyrosine-based switch motif 
+ITT	intention to treat
+IV	Intravenous
+K	Potassium 
+LACE	Lung Adjuvant Cisplatin Evaluation
+LCSS	Lung Cancer Specific Survival
+MSD/Merck	Merck Sharp & Dohme/ Merck
+MTD	Maximum Tolerated Dose
+Na	sodium 
+NED	No evidence of disease
+NGS	next-generation sequencing
+NSCLC	Non Small Cell Cancer
+ORR	Overall Response Rate
+ORTA 	Online Randomized Trials Access
+OTC 	over-the-counter 
+OS	Overall Survival
+PD-1	Programmed Death receptor 1
+PD-L1	Programmed Death-Ligand 1
+PK 	pharmacokinetics 
+PS 	Performance status
+QA&C	Quality Assurance and Control Unit
+Q2W	every 2 weeks
+Q3W	every 3 weeks 
+RDC	Remote Data Capture
+RECIST	Response Evaluation Criteria In Solid Tumors
+RNA	Ribonucleic acid
+SAC 	Scientific Advisory Committee 
+SAE	Serious Adverse Event 
+seqID	sequential patient identification
+SmPC	Summary of Product Characteristics 
+SOP	Standard Operating Procedure
+SSC	Study Steering Committee
+SUSAR	Suspected Unexpected Serious Adverse Reaction
+TAA 	tumor-associated antigens
+TB 	Tuberculosis Bacillus
+TILs 	tumor infiltrating lymphocytes 
+TNF 	tumor necrosis factor 
+TPS	Tumor proportion score
+TR	Translational Research
+TRAC	Translational Research Advisory Committee 
+TTP	Thrombotic Thrombocytopenic Purpura 
+UAR	Unexpected Adverse Reaction
+ULN	upper limit of normal
+VATS 	Video-assisted thoracoscopic surgery
