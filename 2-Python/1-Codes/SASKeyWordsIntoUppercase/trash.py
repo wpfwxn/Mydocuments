@@ -1,0 +1,11 @@
+SASKeyWords = ["proc print data=","proc sort data=","proc format","run;","noobs","datalines","libname ","value ",
+               "proc import out=","datafile","dbms","replace","scantime","usedate","run;","data ","set ","then ",
+               "if ","else ","eof ", "output","end","format ","nodupkey","by "," var "," label ","merge ","drop ","where ",
+               "title ","do ","to ","sum","missing","array","where=","drop ","drop=","rename ","rename=","year","month",
+               "proc freq data=","tables ","noprint ","retrain ","mdy","table ","proc sql ","select ","from ","ods ","rtf ",
+               "proc sgplot","xaxis","yaxis","close","proc logistic","odsfile","filename","file ","dm ","dim","first.","last.",
+               "_n_","proc transpose","descending","max","min","round","rannor","rand","ranks ","proc template ","proc contents ",
+               "informat ","length ","length","varnum ","proc tabulate","proc report","column ","define ","put ","otherwise",
+               "%include", "%let","%macro ","%mend ","%if ", "%then ","%else ","%do","%end","%put","%goto","%scan","%str",
+               "intnx","compress","scan","index","substr","library","proc print","proc export","outfile",
+               "fileexist","_temporary_","pad ","truncover ","dsd ","missover ","while "]
