@@ -38,4 +38,5 @@ file = os.path.join(os.getcwd(),'test.sas')
 file = "//mike.eortc.be/hazobou$/My Documents/EORTC/Tasks/4-1416_Study/1-Compliance/MyCompCheck/Compliance_H.sas"
 file = "\\mike.eortc.be\hazobou$\My Documents\EORTC\Tasks\5-Macro_Development\1-Swimmer_plot\validator_H.sas"
 file = os.path.join("//mike.eortc.be/hazobou$/My Documents/EORTC/Tasks/5-Macro_Development/1-Swimmer_plot","validator_H.sas")
+file = os.path.join("//mike.eortc.be/hazobou$/My Documents/EORTC/Tasks/5-Macro_Development/1-Swimmer_plot","swimmer_plotv3_H.sas")
 toUppercase(file,kw.sasPatternDict)
