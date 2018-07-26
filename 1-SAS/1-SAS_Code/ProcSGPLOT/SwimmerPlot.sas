@@ -1,7 +1,7 @@
 
 DATA TRT;
-	*INFILE "C:\Users\hazobou\MyDocuments\1-SAS\1-SAS_Code\ProcSGPLOT\timetoresponse.csv" DSD FIRSTOBS=2;
-	INFILE "/folders/myshortcuts/MyWorks/Mydocuments/1-SAS/1-SAS_Code/ProcSGPLOT/timetoresponse.csv" DSD FIRSTOBS=2;
+	INFILE "C:\Users\hazobou\MyDocuments\1-SAS\1-SAS_Code\ProcSGPLOT\timetoresponse.csv" DSD FIRSTOBS=2;
+	*INFILE "/folders/myshortcuts/MyWorks/Mydocuments/1-SAS/1-SAS_Code/ProcSGPLOT/timetoresponse.csv" DSD FIRSTOBS=2;
 	Subjn = _N_;
 	INPUT crstart1 crstart2 prstart1 prstart2 end1 end2 line_end symbol $ dstage adrfl $;
 	LABEL dstage="Disease Stage";
@@ -45,26 +45,26 @@ RUN;
 /* Customized legend with symbol and text */
 DATA Anno2;
 	LENGTH Label $100 Function Fillcolor LineColor $25;
-	RETAIN Drawspace "datavalue" LineTickness 3 Display "ALL" WidthUnit "data"
+	RETAIN Drawspace "DATAVALUE" LineTickness 3 Display "ALL" WidthUnit "data"
 		   HeightUnit "data" Anchor "left" ;
 	/* Draw red triangle indicating complete response start time */
-	Function="POLYGON"; X1=15.2; Y1=4.1; LineColor='red'; FillColor='red'; OUTPUT;
-	Function="POLYCONT"; X1=15.3; Y1=3.9; LineColor='red'; OUTPUT;
-	Function="POLYCONT"; X1=15.1; Y1=3.9; LineColor='red'; OUTPUT;
-	Function="POLYCONT"; X1=15.2; Y1=4.1; LineColor='red'; OUTPUT;
+	Function="POLYGON"; X1=15.20; Y1=14.10; LineColor='red'; FillColor='red'; OUTPUT;
+	Function="POLYCONT"; X1=15.30; Y1=13.90; LineColor='red'; OUTPUT;
+	Function="POLYCONT"; X1=15.10; Y1=13.90; LineColor='red'; OUTPUT;
+	/*Function="POLYCONT"; X1=15.2; Y1=4.1; LineColor='red'; OUTPUT;/*
 	
 	/* Draw red triangle indicating complete response start time */
-	Function="POLYGON"; X1=15.2;  Y1=3.1; LineColor='blue'; FillColor='blue'; OUTPUT;
-	Function="POLYCONT"; X1=15.3; Y1=2.9; LineColor='blue'; OUTPUT;
-	Function="POLYCONT"; X1=15.1; Y1=2.9; LineColor='blue'; OUTPUT;
-	Function="POLYCONT"; X1=15.2; Y1=3.1; LineColor='blue'; OUTPUT;
+	Function="POLYGON"; X1=15.20;  Y1=13.10; LineColor='blue'; FillColor='blue'; OUTPUT;
+	Function="POLYCONT"; X1=15.30; Y1=12.90; LineColor='blue'; OUTPUT;
+	Function="POLYCONT"; X1=15.10; Y1=12.90; LineColor='blue'; OUTPUT;
+	/*Function="POLYCONT"; X1=15.2; Y1=3.1; LineColor='blue'; OUTPUT;/*
 	
 	/* Draw the circle indicatinf the response and time using the OVAL function */
 	Function="OVAL"; X1=15.125; Y1=8; LineColor='black'; FillColor="black"; Height=0.25;
 		Width=0.2; OUTPUT;
 	
 	/* Draw arrow indicating continuing response */
-	Function="ARROW"; X1=15; X2=15.8; Y1=9; Y2=9; LineColor='black'; Shape='FILLEd'; OUTPUT;
+	Function="ARROW"; X1=15; X2=15.8; Y1=9; Y2=9; LineColor='black'; Shape='FILLED'; OUTPUT;
 	
 	/* Draw a square indicating durable responder */
 	Function='RECTANGLE'; X1=15.125; Y1=10; LineColor='black'; FillColor='black';
@@ -94,7 +94,7 @@ DATA Attrmap;
 RUN;
 
 /* Finally, the swimmer plot */
-PROC SGPLOT DATA=Final1 SGANNO=Anno;
+PROC SGPLOT DATA=Final1 SGANNO=Anno DATTRMAP=Attrmap;
 	HBARPARM CATEGORY=Subjn RESPONSE=Line_end / GROUP=Dstage ATTRID=A BARWIDTH=.5;
 	YAXIS TYPE=DISCRETE DISPLAY=(NOVALUES NOTICKS) LABEL="Subjects who received drug";
 	XAXIS TYPE=LINEAR LABEL="Months" VALUES=(-1 TO 20 BY 1);
